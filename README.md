@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield Proto Terminal Block Board
-# ASD2005 Rev1
+# ASD2005 Rev2
 
-These are the design files for the TinyCircuits ASD2005 Rev 1 PCB.  This is a TinyShield board (32mm x 29mm) that has the shield signals brought out to terminal blocks.
+The design files are located under design_files/ for the TinyCircuits ASD2005 Rev 2 PCB.  This is a TinyShield board (32mm x 29mm) that has the shield signals brought out to terminal blocks.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-proto-terminal-blocks.html
+For more infomation on this, check out the product page at TinyCircuits.com:  https://tinycircuits.com/collections/proto-boards/products/proto-terminal-blocks-tinyshield?variant=14984805511
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
